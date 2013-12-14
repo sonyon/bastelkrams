@@ -1,0 +1,19 @@
+{
+  "name": "sonyon/bastelkram",
+  "type": "library",
+  "description": "Eien Sms Api fuer den Huawai Stick.",
+  "keywords": [
+    "date",
+    "time",
+    "DateTime"
+  ],
+  "homepage": "http://www.hassel.me",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "hassel",
+      "email": "ch@hassel.me",
+      "homepage": "http://www.hassel.me"
+    }
+  ]
+}
