@@ -1,7 +1,7 @@
 {
   "name": "sonyon/bastelkram",
   "type": "library",
-  "description": "Eien Sms Api fuer den Huawai Stick.",
+  "description": "eine Sms Api fuer den Huawai Stick.",
   "keywords": [
     "date",
     "time",
