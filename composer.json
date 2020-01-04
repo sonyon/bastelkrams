@@ -1,6 +1,7 @@
 {
   "name": "sonyon/bastelkrams",
   "description": "Bastelkrams",
+  "minimum-stability": "dev",
   "require": {
     "require": {
         "illuminate/support": "^5.8|^6.0",
