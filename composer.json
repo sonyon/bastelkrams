@@ -1,19 +1,17 @@
 {
-  "name": "sonyon/bastelkram",
-  "type": "library",
-  "description": "eine Sms Api fuer den Huawai Stick.",
-  "keywords": [
-    "date",
-    "time",
-    "DateTime"
-  ],
-  "homepage": "http://www.hassel.me",
-  "license": "MIT",
+  "name": "sonyon/bastelkrams",
+  "description": "Bastelkrams",
+  "require": {
+    "require": {
+        "illuminate/support": "^5.8|^6.0",
+        "illuminate/container": "^5.8|^6.0",
+        "illuminate/database": "^5.8|^6.0",
+        "illuminate/events": "^5.8|^6.0"
+  },
   "authors": [
     {
-      "name": "hassel",
-      "email": "ch@hassel.me",
-      "homepage": "http://www.hassel.me"
+      "name": "Sonyon"
     }
-  ]
+  ],
+  "license": "MIT"
 }
